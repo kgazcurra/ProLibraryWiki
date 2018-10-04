@@ -1,5 +1,3 @@
-# ProLibrary Wiki
-
 ![alt=ProLibrary](https://github.com/kgazcurra/ProLibraryWiki/blob/master/ProLibrary_logo_long.jpg)
 
 This repo only exist for the purpose of maintaining the wiki for the Unity Asset "ProLibrary".
